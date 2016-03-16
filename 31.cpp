@@ -2,7 +2,7 @@
 using std::cout;
 using std::endl;
 
-//函数: 查找子串sub在str中出现的次数--用C++方式--子串可重叠 
+//鍑芥暟: 鏌ユ壘瀛愪覆sub鍦╯tr涓嚭鐜扮殑娆℃暟 
 int fun(const std::string& str, const std::string& sub)
 {
 int num = 0;
